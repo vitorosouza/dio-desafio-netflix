@@ -124,3 +124,10 @@ header nav a:hover{
 .carrosel-filmes{
     margin-top: 5px;
 }
+
+footer{
+    text-decoration: none;
+    
+    margin-left: 5px;
+    padding-bottom: 20px;
+}
